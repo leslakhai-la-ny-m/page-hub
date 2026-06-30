@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leslakhai-la-ny-m.github.io/page-hub/sitemap.xml
